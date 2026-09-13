@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-server
+outputs
+uploads
+tmp
+.git
+.playwright-mcp
+data
+*.pem
+*.log
+.DS_Store
