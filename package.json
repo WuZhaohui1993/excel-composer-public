@@ -12,7 +12,6 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "type-check": "tsc --noEmit && tsc -p tsconfig.server.json --noEmit",
-    "make-env": "node scripts/make-env.mjs"
   },
   "dependencies": {
     "@fastify/cors": "^10.0.2",
